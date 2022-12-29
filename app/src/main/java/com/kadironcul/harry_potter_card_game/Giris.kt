@@ -12,6 +12,7 @@ import com.google.firebase.database.ValueEventListener
 import kotlinx.android.synthetic.main.activity_giris.*
 
 class Giris : AppCompatActivity() {
+    // Sati İlayda Şahin
     var kullanici_adi:String=""
     var sifre:String=""
     override fun onCreate(savedInstanceState: Bundle?) {
